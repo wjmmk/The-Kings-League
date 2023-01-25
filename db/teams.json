@@ -1,0 +1,194 @@
+[
+    {
+        "id": "1K",
+        "name": "1K FC",
+        "image": "/1k.svg",
+        "url": "",
+        "president": "???",
+        "channel": "user",
+        "coach": "???",
+        "socialNetwork": [
+            "https://twitter.com/kingsleague",
+            "https://www.instagram.com/kingsleague/",
+            "https://www.tiktok.com/@kingsleague",
+            "https://www.youtube.com/@KingsLeagueOfficial"
+        ],
+        "players": []
+    },
+    {
+        "id": "aniquiladores-fc",
+        "name": "Aniquiladores FC",
+        "image": "/aniquiladores.svg",
+        "url": "https://kingsleague.pro/team/aniquiladores-fc/",
+        "president": "Juan Guarnizo",
+        "channel": "user",
+        "coach": "Sergio Verdirame",
+        "socialNetwork": [
+            "https://twitter.com/kingsleague",
+            "https://www.instagram.com/kingsleague/",
+            "https://www.tiktok.com/@kingsleague",
+            "https://www.youtube.com/@KingsLeagueOfficial"
+        ],
+        "players": []
+    },
+    {
+        "id": "el-barrio",
+        "name": "El Barrio",
+        "image": "/el-barrio.svg",
+        "url": "https://kingsleague.pro/team/el-barrio/",
+        "president": "Adri Contreras",
+        "channel": "user",
+        "coach": "Juan Arroita",
+        "socialNetwork": [
+            "https://twitter.com/kingsleague",
+            "https://www.instagram.com/kingsleague/",
+            "https://www.tiktok.com/@kingsleague",
+            "https://www.youtube.com/@KingsLeagueOfficial"
+        ],
+        "players": []
+    },
+    {
+        "id": "jijantes-fc",
+        "name": "Jijantes FC",
+        "image": "/jijantes-fc.svg",
+        "url": "https://kingsleague.pro/team/jijantes-fc/",
+        "president": "Gerard Romero",
+        "channel": "user",
+        "coach": "Marc Carmona",
+        "socialNetwork": [
+            "https://twitter.com/kingsleague",
+            "https://www.instagram.com/kingsleague/",
+            "https://www.tiktok.com/@kingsleague",
+            "https://www.youtube.com/@KingsLeagueOfficial"
+        ],
+        "players": []
+    },
+    {
+        "id": "kunisports",
+        "name": "Kunisports",
+        "image": "/kunisports.svg",
+        "url": "https://kingsleague.pro/team/kunisports/",
+        "president": "Kun Aguero",
+        "channel": "user",
+        "coach": "Martin Posse",
+        "socialNetwork": [
+            "https://twitter.com/kingsleague",
+            "https://www.instagram.com/kingsleague/",
+            "https://www.tiktok.com/@kingsleague",
+            "https://www.youtube.com/@KingsLeagueOfficial"
+        ],
+        "players": []
+    },
+    {
+        "id": "los-troncos-fc",
+        "name": "Los Troncos FC",
+        "image": "/los-troncos.png",
+        "url": "https://kingsleague.pro/team/los-troncos-fc/",
+        "president": "Perxitaa",
+        "channel": "user",
+        "coach": "Pol Font",
+        "socialNetwork": [
+            "https://twitter.com/kingsleague",
+            "https://www.instagram.com/kingsleague/",
+            "https://www.tiktok.com/@kingsleague",
+            "https://www.youtube.com/@KingsLeagueOfficial"
+        ],
+        "players": []
+    },
+    {
+        "id": "pio-fc",
+        "name": "PIO FC",
+        "image": "/pio.svg",
+        "url": "https://kingsleague.pro/team/pio-fc/",
+        "president": "Rivers",
+        "channel": "user",
+        "coach": "Gerardo Torrado",
+        "socialNetwork": [
+            "https://twitter.com/kingsleague",
+            "https://www.instagram.com/kingsleague/",
+            "https://www.tiktok.com/@kingsleague",
+            "https://www.youtube.com/@KingsLeagueOfficial"
+        ],
+        "players": []
+    },
+    {
+        "id": "porcinos-fc",
+        "name": "Porcinos FC",
+        "image": "/porcinos-fc.svg",
+        "url": "https://kingsleague.pro/team/porcinos-fc/",
+        "president": "Ibai Llanos",
+        "channel": "user",
+        "coach": "Juvenal Edjogo-Owono",
+        "socialNetwork": [
+            "https://twitter.com/kingsleague",
+            "https://www.instagram.com/kingsleague/",
+            "https://www.tiktok.com/@kingsleague",
+            "https://www.youtube.com/@KingsLeagueOfficial"
+        ],
+        "players": []
+    },
+    {
+        "id": "rayo-barcelona",
+        "name": "Rayo de Barcelona",
+        "image": "/rayo-barcelona.svg",
+        "url": "https://kingsleague.pro/team/rayo-barcelona/",
+        "president": "Spursito",
+        "channel": "user",
+        "coach": "JuanluDBZ",
+        "socialNetwork": [
+            "https://twitter.com/kingsleague",
+            "https://www.instagram.com/kingsleague/",
+            "https://www.tiktok.com/@kingsleague",
+            "https://www.youtube.com/@KingsLeagueOfficial"
+        ],
+        "players": []
+    },
+    {
+        "id": "saiyans-fc",
+        "name": "Saiyans FC",
+        "image": "/saiyans-fc.svg",
+        "url": "https://kingsleague.pro/team/saiyans-fc/",
+        "president": "TheGrefg",
+        "channel": "user",
+        "coach": "Daniel Romo",
+        "socialNetwork": [
+            "https://twitter.com/kingsleague",
+            "https://www.instagram.com/kingsleague/",
+            "https://www.tiktok.com/@kingsleague",
+            "https://www.youtube.com/@KingsLeagueOfficial"
+        ],
+        "players": []
+    },
+    {
+        "id": "ultimate-mostoles",
+        "name": "Ultimate Móstoles",
+        "image": "/ultimate-mostoles.svg",
+        "url": "https://kingsleague.pro/team/ultimate-mostoles/",
+        "president": "DjMaRiio",
+        "channel": "user",
+        "coach": "Nacho Castro",
+        "socialNetwork": [
+            "https://twitter.com/kingsleague",
+            "https://www.instagram.com/kingsleague/",
+            "https://www.tiktok.com/@kingsleague",
+            "https://www.youtube.com/@KingsLeagueOfficial"
+        ],
+        "players": []
+    },
+    {
+        "id": "xbuyer-team",
+        "name": "XBUYER TEAM",
+        "image": "/xbuyer-team.svg",
+        "url": "https://kingsleague.pro/team/xbuyer-team/",
+        "president": "Hnos. Buyer",
+        "channel": "user",
+        "coach": "Victor González",
+        "socialNetwork": [
+            "https://twitter.com/kingsleague",
+            "https://www.instagram.com/kingsleague/",
+            "https://www.tiktok.com/@kingsleague",
+            "https://www.youtube.com/@KingsLeagueOfficial"
+        ],
+        "players": []
+    }
+]
