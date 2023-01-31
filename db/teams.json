@@ -1,12 +1,12 @@
 [
     {
-        "id": "1K",
+        "id": "1k",
         "name": "1K FC",
-        "image": "/1k.svg",
-        "url": "",
-        "president": "???",
+        "image": "https://king-league-api.wjmmk3.workers.dev/static/logos/1k-inverse.svg",
+        "url": "https://kingsleague.pro/team/1k/",
+        "president": "Iker Casillas",
         "channel": "user",
-        "coach": "???",
+        "coach": "Julio Garcia Mera",
         "socialNetwork": [
             "https://twitter.com/kingsleague",
             "https://www.instagram.com/kingsleague/",
@@ -18,7 +18,7 @@
     {
         "id": "aniquiladores-fc",
         "name": "Aniquiladores FC",
-        "image": "/aniquiladores.svg",
+        "image": "https://king-league-api.wjmmk3.workers.dev/static/logos/aniquiladores.svg",
         "url": "https://kingsleague.pro/team/aniquiladores-fc/",
         "president": "Juan Guarnizo",
         "channel": "user",
@@ -34,7 +34,7 @@
     {
         "id": "el-barrio",
         "name": "El Barrio",
-        "image": "/el-barrio.svg",
+        "image": "https://king-league-api.wjmmk3.workers.dev/static/logos/el-barrio.svg",
         "url": "https://kingsleague.pro/team/el-barrio/",
         "president": "Adri Contreras",
         "channel": "user",
@@ -50,7 +50,7 @@
     {
         "id": "jijantes-fc",
         "name": "Jijantes FC",
-        "image": "/jijantes-fc.svg",
+        "image": "https://king-league-api.wjmmk3.workers.dev/static/logos/jijantes-fc.svg",
         "url": "https://kingsleague.pro/team/jijantes-fc/",
         "president": "Gerard Romero",
         "channel": "user",
@@ -66,7 +66,7 @@
     {
         "id": "kunisports",
         "name": "Kunisports",
-        "image": "/kunisports.svg",
+        "image": "https://king-league-api.wjmmk3.workers.dev/static/logos/kunisports.svg",
         "url": "https://kingsleague.pro/team/kunisports/",
         "president": "Kun Aguero",
         "channel": "user",
@@ -82,7 +82,7 @@
     {
         "id": "los-troncos-fc",
         "name": "Los Troncos FC",
-        "image": "/los-troncos.png",
+        "image": "https://king-league-api.wjmmk3.workers.dev/static/logos/los-troncos.png",
         "url": "https://kingsleague.pro/team/los-troncos-fc/",
         "president": "Perxitaa",
         "channel": "user",
@@ -98,7 +98,7 @@
     {
         "id": "pio-fc",
         "name": "PIO FC",
-        "image": "/pio.svg",
+        "image": "https://king-league-api.wjmmk3.workers.dev/static/logos/pio.svg",
         "url": "https://kingsleague.pro/team/pio-fc/",
         "president": "Rivers",
         "channel": "user",
@@ -114,7 +114,7 @@
     {
         "id": "porcinos-fc",
         "name": "Porcinos FC",
-        "image": "/porcinos-fc.svg",
+        "image": "https://king-league-api.wjmmk3.workers.dev/static/logos/porcinos-fc.svg",
         "url": "https://kingsleague.pro/team/porcinos-fc/",
         "president": "Ibai Llanos",
         "channel": "user",
@@ -130,7 +130,7 @@
     {
         "id": "rayo-barcelona",
         "name": "Rayo de Barcelona",
-        "image": "/rayo-barcelona.svg",
+        "image": "https://king-league-api.wjmmk3.workers.dev/static/logos/rayo-barcelona.svg",
         "url": "https://kingsleague.pro/team/rayo-barcelona/",
         "president": "Spursito",
         "channel": "user",
@@ -146,7 +146,7 @@
     {
         "id": "saiyans-fc",
         "name": "Saiyans FC",
-        "image": "/saiyans-fc.svg",
+        "image": "https://king-league-api.wjmmk3.workers.dev/static/logos/saiyans-fc.svg",
         "url": "https://kingsleague.pro/team/saiyans-fc/",
         "president": "TheGrefg",
         "channel": "user",
@@ -162,7 +162,7 @@
     {
         "id": "ultimate-mostoles",
         "name": "Ultimate Móstoles",
-        "image": "/ultimate-mostoles.svg",
+        "image": "https://king-league-api.wjmmk3.workers.dev/static/logos/ultimate-mostoles.svg",
         "url": "https://kingsleague.pro/team/ultimate-mostoles/",
         "president": "DjMaRiio",
         "channel": "user",
@@ -178,7 +178,7 @@
     {
         "id": "xbuyer-team",
         "name": "XBUYER TEAM",
-        "image": "/xbuyer-team.svg",
+        "image": "https://king-league-api.wjmmk3.workers.dev/static/logos/xbuyer-team.svg",
         "url": "https://kingsleague.pro/team/xbuyer-team/",
         "president": "Hnos. Buyer",
         "channel": "user",

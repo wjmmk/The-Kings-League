@@ -3,4 +3,4 @@ main = "api/index.js"
 compatibility_date = "2023-01-24"
 
 [site]
-bucket = "./static/logos"
+bucket = "./assets" 
